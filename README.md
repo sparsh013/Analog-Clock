@@ -35,7 +35,7 @@ This project is a simple, interactive analog clock built with HTML, CSS, and Jav
 
 ### Usage
 
-The clock will automatically display the current time when opened in a browser. No additional input is required.
+The clock automatically displays the current time when opened in a browser. No additional input is required.
 
 ### Contributing
 
